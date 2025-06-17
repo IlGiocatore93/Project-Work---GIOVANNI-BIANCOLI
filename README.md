@@ -52,6 +52,7 @@ python app1.py
 Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
 👩‍🎨 Creato da: https://github.com/IlGiocatore93
+[Giovanni](https://github.com/IlGiocatore93)
 
 😎 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!👨‍💻
 
