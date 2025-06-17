@@ -36,9 +36,9 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
 
 # Creazione di un ambiente virtuale (cmd da dentro la cartella-->poi prompt dei comandi):
-\Python313\python.exe -m venv .     # in Windows
-Scripts\activate           
-code .                              # IDE Visual Studio Code
+- \Python313\python.exe -m venv .     # in Windows
+- Scripts\activate           
+- code .                              # IDE Visual Studio Code
 
 # Installazione delle dipendenze necessarie:
 pip install ttk
