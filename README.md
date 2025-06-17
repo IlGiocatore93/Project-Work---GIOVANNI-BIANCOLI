@@ -25,6 +25,7 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 🐍Anteprima dell'interfaccia🧭:
 
 ![scr1](https://github.com/user-attachments/assets/5b81d3d1-c7be-4129-8596-95813a7736a9)
+![scr2](https://github.com/user-attachments/assets/18fe22a3-f39e-4ae3-a423-6724b67bff4a)
 
 
 
