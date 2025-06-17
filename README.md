@@ -21,3 +21,9 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 ✅ Infine, sopra la barra, sono presenti delle "checkbox" selezionabili in base al formato immagine(jpeg, png, ico, bmp) che si vuole ricercare, dalla barra di ricerca automatica             
 ✅ Utilizzo moduli per avere un interfaccia più snella e dinamica come "ttk", moduli per la comunicazione con le cartelle tramite "filedialog", moduli per la visualizzazzione dei messaggi di caricamento e di         errore con "messagebox", moduli per interagine con il sistema operativo presente tramite "os", moduli per lavorare con date e orari utilizzando "datetime" e moduli per utilizzare le pause e le misure temporali    con "time"
 ✅ Utilizzo della libreria "Pillow" potendo caricare immagini in molteplici formati, visualizzando, caricando, creando e salvando ogni qualsivoglia immagine
+
+🐍Anteprima dell'interfaccia:
+![Screenshot 2025-06-17 033343](https://github.com/user-attachments/assets/4c1bd742-366b-4549-85d2-f5369fb6aeb5)
+![Screenshot 2025-06-17 033442](https://github.com/user-attachments/assets/0993a0a6-e46e-493b-a990-3a434997bea9)
+
+
