@@ -31,6 +31,7 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 
 ✨Cerca l'immagine che ti serve al momento giusto!! Basta digitare le prime tre lettere dell'immagine!!🤩🚀
 
+
 🛠️Requisiti: 
 Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
 
