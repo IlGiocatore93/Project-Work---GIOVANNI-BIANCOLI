@@ -32,6 +32,7 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 ✨Cerca l'immagine che ti serve al momento giusto!! Basta digitare le prime tre lettere dell'immagine che le troverà all'instante nel pc!!🤩🚀
 
 
+
 🛠️Requisiti: 
 Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
 
@@ -40,19 +41,15 @@ Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un
 - Scripts\activate           
 - code .                                     # IDE Visual Studio Code
 
+
 # Installazione delle dipendenze necessarie:
 - pip install ttk
 
 - pip install pillow
 
+
 # Avvio dell'applicativo:
 python app1.py
-
-
-
-
-
-
 
 
 
