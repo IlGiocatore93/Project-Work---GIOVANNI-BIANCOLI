@@ -27,11 +27,30 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 ![scr1](https://github.com/user-attachments/assets/36fbfb56-e1ba-4115-9aa4-93ad6ae80217)
 ![scr2](https://github.com/user-attachments/assets/94608d77-c945-407d-afc5-aabd423274ae)
 
-🤖Tecnologia utilizzata: 📌Python 3.x  📌  tkinter + ttk + messagebox + filedialog  📌  Pillow (gestione immagini) 
+🤖Tecnologia utilizzata: 📌Python 3.x  📌  tkinter + ttk + filedialog + messagebox   📌  Pillow (gestione immagini) 
+✨Cerca l'immagine che ti serve al momento giusto!! Basta digitare le prime tre lettere dell'immagine!!🤩🚀
 
+🛠️Requisiti: 
+Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
 
+# Creazione di un ambiente virtuale (cmd da dentro la cartella-->poi prompt dei comandi):
+\Python313\python.exe -m venv .     # in Windows
+Scripts\activate           
+code .                              # IDE Visual Studio Code
 
+# Installazione delle dipendenze necessarie:
+pip install ttk
+pip install pillow
 
+# Avvio dell'applicativo:
+python app1.py
+
+🖍️Vuoi contribuire e migliorare il progetto?🧠Apri una Issue o una Pull Request su Github!💡
+Licenza: MIT - Libero di esplorare, migliorare e condividere.
+
+👩‍🎨 Creato da: ilGiocatore93
+
+😎 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!👨‍💻
 
 
 
