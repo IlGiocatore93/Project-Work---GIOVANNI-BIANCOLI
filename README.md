@@ -24,8 +24,9 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 
 🐍Anteprima dell'interfaccia🧭:
 
-![scr1](https://github.com/user-attachments/assets/36fbfb56-e1ba-4115-9aa4-93ad6ae80217)
-![scr2](https://github.com/user-attachments/assets/94608d77-c945-407d-afc5-aabd423274ae)
+![scr1](https://github.com/user-attachments/assets/7650c185-34d2-45f5-812f-1935941f7fb0)
+![scr2](https://github.com/user-attachments/assets/03574459-5176-475f-ab31-b5dac5e5a463)
+
 
 🤖Tecnologia utilizzata: 📌Python 3.x  📌  tkinter + ttk + filedialog + messagebox   📌  Pillow (gestione immagini) 
 
