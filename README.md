@@ -41,9 +41,9 @@ Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un
 - code .                              # IDE Visual Studio Code
 
 # Installazione delle dipendenze necessarie:
-pip install ttk
+- pip install ttk
 
-pip install pillow
+- pip install pillow
 
 # Avvio dell'applicativo:
 python app1.py
