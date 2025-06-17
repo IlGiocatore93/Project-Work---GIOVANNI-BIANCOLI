@@ -29,7 +29,7 @@ Benvenuto nel mio progetto Github!🧪 Sono Giovanni, studente DevOps, amante de
 
 🤖Tecnologia utilizzata: 📌Python 3.x  📌  tkinter + ttk + filedialog + messagebox   📌  Pillow (gestione immagini) 
 
-✨Cerca l'immagine che ti serve al momento giusto!! Basta digitare le prime tre lettere dell'immagine!!🤩🚀
+✨Cerca l'immagine che ti serve al momento giusto!! Basta digitare le prime tre lettere dell'immagine che le troverà all'instante nel pc!!🤩🚀
 
 
 🛠️Requisiti: 
