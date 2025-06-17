@@ -49,9 +49,12 @@ Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un
 python app1.py
 
 🖍️Vuoi contribuire e migliorare il progetto?🧠Apri una Issue o una Pull Request su Github!💡
+
 Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
+
 👩‍🎨 Creato da: [Giovanni](https://github.com/IlGiocatore93)
+
 
 😎 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!👨‍💻
 
