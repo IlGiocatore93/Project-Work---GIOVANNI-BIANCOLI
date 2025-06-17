@@ -51,8 +51,7 @@ python app1.py
 🖍️Vuoi contribuire e migliorare il progetto?🧠Apri una Issue o una Pull Request su Github!💡
 Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
-👩‍🎨 Creato da: https://github.com/IlGiocatore93
-[Giovanni](https://github.com/IlGiocatore93)
+👩‍🎨 Creato da: [Giovanni](https://github.com/IlGiocatore93)
 
 😎 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!👨‍💻
 
